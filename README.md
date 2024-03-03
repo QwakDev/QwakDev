@@ -8,4 +8,3 @@
 - ⚡ Fun fact: my head is closer to the clouds than my code
 - 🐱‍💻 How I started: Unity3D and C# 
 - 💔 Heart broken by C
-- 🧠 Can help with: ...
