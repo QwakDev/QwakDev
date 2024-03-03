@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Qwak
+- 👀 I’m interested in robotics and IoT
+- 🌱 I’m currently learning usage of AI and Computer Vision
+- 💞️ I’m looking to collaborate on any project realating in robotics, data or IoT
+- 📫 How to reach me ArkadiuszQwakAmilkiewicz@outlook.com  
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: my head is closer to the cloads than my code
