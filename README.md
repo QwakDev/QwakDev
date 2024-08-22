@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Qwak 👨‍🎓Graduate BEng in Robotics
-- 🤞  Aspiring Software/Embedded Engineer --> StartUp founder
-- 👀 I’m interested in robotics and IoT
-- 👩‍💻 Working on EasyLabel project 
-- 🌱 I’m currently continue learning usage of AI, Computer Vision and Algoritms
+- 🤞 Software/Embedded Engineer --> StartUp founder
+- 👀 I’m interested in CV, backend, robotics and IoT
+- 👩‍💻 Working full time and on few side projects
+- 🌱 I’m currently continue advancing in usage of AI, Computer Vision and Algoritms
 - 💞️ I’m looking to collaborate on any project realated to robotics, data or IoT
-- 📫 How to reach me ArkadiuszQwakAmilkiewicz@outlook.com  or QwakDev@gmail.com
+- 📫 How to reach me QwakDev@gmail.com
 - ⚡ Fun fact: my head is closer to the clouds than my code
 - 🐱‍💻 How I started: Unity3D and C# 
 - 💔 Heart broken by C
